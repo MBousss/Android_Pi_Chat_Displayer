@@ -59,4 +59,4 @@ Steps
 5. Listen to chat messages send from phone on Raspberry Pi
 
     5-1. Open another terminal and launch pi_lcd application.
-        main.py /dev/rfcomm0
+        python main.py /dev/rfcomm0
